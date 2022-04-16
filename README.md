@@ -1,7 +1,7 @@
 # E-Commerce webapp (MERN stack)
 
 |                                                                                                                                                                    |                                                                                                                                                                      |                                                                                                                                                                                           |
-| :----------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | --- |
+
 | <img src="https://github.com/michaelc285/mern-ecommerce/blob/master/readmeImage/sample1.png?raw=true" width="400" alt="screen shot market landing"> Market Landing | <img src="https://github.com/michaelc285/mern-ecommerce/blob/master/readmeImage/cartLanding.jpg?raw=true" width="400" alt="screen shot shopping cart"> Shopping Cart | <img src="https://raw.githubusercontent.com/michaelc285/mern-ecommerce/master/readmeImage/userControlPanel.jpg?raw=true" width="400" alt="screen shot shopping cart"> Users Control Panel |     |
 
 ## Getting Started
