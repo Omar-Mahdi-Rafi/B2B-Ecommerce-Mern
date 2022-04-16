@@ -62,4 +62,4 @@ Role
 
 ## Objective
 
-- This project is a pratice for me to learn MVC pattern, modern framework and webapp.
+- I am Omar Mahdi Rafi (ID - 18101422). This project is a part of CSE470 course in BRAC University. It is a pratice for me to learn MVC pattern, modern framework and webapp.
